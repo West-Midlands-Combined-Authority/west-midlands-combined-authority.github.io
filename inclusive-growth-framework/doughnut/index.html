@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <!-- West Midlands Combined Authority Inclusive Growth Framework -->
+  <!-- Si Chun Lam 7 November 2022 -->
+  <title>Inclusive Growth Framework &mdash; West Midlands Combined Authority</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
+    <meta name="Keywords" content="Inclusive Growth Framework, West Midlands Combined Authority, WMCA, Si Chun Lam">
+    <meta name="Description" content="Inclusive Growth Framework &mdash; West Midlands Combined Authority">
+    <meta name="Author" content="Si Chun Lam">
+    <link rel="icon" type="image/png" href="/res/wmca-favicon.png">
+    <link rel="stylesheet" href="https://www.wmca.org.uk/css/wmcads.min.css">
+    <style media="screen, print">
+      body {
+        left: 0;
+        top: 0;
+        margin: 0;
+        padding: 0;
+        background: #f2f2f2;
+        overflow: scroll;
+      }
+      footer {
+        display: none;
+      }
+      h1 {
+        display: none;
+      }
+      img {
+        width: 100%;
+        height: auto;
+      }
+      .igf-link {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .preload {
+        display: none;
+      }
+      #igf-01-inclusive-economy:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-01-inclusive-economy.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-02-power-and-participation:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-02-power-and-participation.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-03-affordable-and-safe-places:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-03-affordable-and-safe-places.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-04-connected-communities:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-04-connected-communities.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-05-education-and-learning:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-05-education-and-learning.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-06-health-and-wellbeing:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-06-health-and-wellbeing.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-07-equality:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-07-equality.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-08-climate-resilience:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-08-climate-resilience.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-overshoot:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-overshoot-and-shortfall.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-shortfall:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-overshoot-and-shortfall.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-wmca-igf-fundamentals:hover ~ #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-wmca-igf-fundamentals.svg") no-repeat;
+        background-size: contain;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      #igf-inclusive-growth-framework {
+        background: url("/inclusive-growth-framework/res/igf-inclusive-growth-framework.svg") no-repeat;
+        background-size: contain;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100vw;
+        height: 56.25vw;
+      }
+      .igf-fundamentals {
+        background-size: contain;
+        position: absolute;
+        width: 7.8125vw;
+        height: 7.8125vw;
+        display: inline-block;
+        border-radius: 1.92vw;
+        z-index: 100;
+        transition: ease-in-out 0.5s;
+        background: rgba(35,35,35,0);
+      }
+      #igf-01-inclusive-economy {
+        left: 51.042vw;
+        top: 15.625vw;
+      }
+      #igf-02-power-and-participation {
+        left: 56.772vw;
+        top: 23.4375vw;
+      }
+      #igf-03-affordable-and-safe-places {
+        left: 54.6875vw;
+        top: 32.8125vw;
+      }
+      #igf-04-connected-communities {
+        left: 46.0938vw;
+        top: 36.9792vw;
+      }
+      #igf-05-education-and-learning {
+        left: 37.5vw;
+        top: 32.8125vw;
+      }
+      #igf-06-health-and-wellbeing {
+        left: 35.4167vw;
+        top: 23.4375vw;
+      }
+      #igf-07-equality {
+        left: 41.6667vw;
+        top: 15.625vw;
+      }
+      #igf-08-climate-resilience {
+        left: 42.7083vw;
+        top: 5.2083vw;
+        width: 15.625vw !important;
+      }
+      #igf-overshoot {
+        left: 26.0417vw;
+        top: 11.4583vw;
+        width: 5.2083vw !important;
+        height: 5.2083vw !important;
+      }
+      #igf-shortfall {
+        left: 44.0104vw;
+        top: 24.4792vw;
+        width: 4.1667vw !important;
+        height: 4.1667vw !important;
+      }
+      #igf-wmca-igf-fundamentals {
+        left: 42.7083vw;
+        top: 44.7917vw;
+        width: 15.625vw !important;
+        height: 2.6042vw !important;
+      }
+    </style>
+  </head>
+  <body>
+  <div id="content">
+    <h1>Inclusive Growth Framework &mdash; West Midlands Combined Authority</h1>
+    <div class="preload">
+      <img src="/inclusive-growth-framework/res/igf-01-inclusive-economy.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-02-power-and-participation.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-03-affordable-and-safe-places.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-04-connected-communities.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-05-education-and-learning.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-06-health-and-wellbeing.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-07-equality.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-08-climate-resilience.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-overshoot-and-shortfall.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-overshoot-and-shortfall.svg" alt="">
+      <img src="/inclusive-growth-framework/res/igf-wmca-igf-fundamentals.svg" alt="">
+    </div>
+    <div class="igf-fundamentals" id="igf-01-inclusive-economy"><a target="_top" title="Inclusive economy" class="igf-link" href="/inclusive-growth-framework/fundamentals/inclusive-economy/"></a></div>
+    <div class="igf-fundamentals" id="igf-02-power-and-participation"><a target="_top" title="Power and participation" class="igf-link" href="/inclusive-growth-framework/fundamentals/power-and-participation/"></a></div>
+    <div class="igf-fundamentals" id="igf-03-affordable-and-safe-places"><a target="_top" title="Affordable and safe places" class="igf-link" href="/inclusive-growth-framework/fundamentals/affordable-and-safe-places/"></a></div>
+    <div class="igf-fundamentals" id="igf-04-connected-communities"><a target="_top" title="Connected communities" class="igf-link" href="/inclusive-growth-framework/fundamentals/connected-communities/"></a></div>
+    <div class="igf-fundamentals" id="igf-05-education-and-learning"><a target="_top" title="Education and learning" class="igf-link" href="/inclusive-growth-framework/fundamentals/education-and-learning/"></a></div>
+    <div class="igf-fundamentals" id="igf-06-health-and-wellbeing"><a target="_top" title="Health and wellbeing" class="igf-link" href="/inclusive-growth-framework/fundamentals/health-and-wellbeing/"></a></div>
+    <div class="igf-fundamentals" id="igf-07-equality"><a target="_top" title="Equality" class="igf-link" href="/inclusive-growth-framework/fundamentals/equality/"></a></div>
+    <div class="igf-fundamentals" id="igf-08-climate-resilience"><a target="_top" title="Climate resilience" class="igf-link" href="/inclusive-growth-framework/fundamentals/climate-resilience/"></a></div>
+    <div class="igf-fundamentals" id="igf-overshoot"><a target="_top" title="Overshoot" class="igf-link" href="/inclusive-growth-framework/fundamentals/#overshoot-and-shortfall"></a></div>
+    <div class="igf-fundamentals" id="igf-shortfall"><a target="_top" title="Shortfall" class="igf-link" href="/inclusive-growth-framework/fundamentals/#overshoot-and-shortfall"></a></div>
+    <div class="igf-fundamentals" id="igf-wmca-igf-fundamentals"><a target="_top" title="West Midlands Combined Authority Inclusive Growth Framework Fundamentals" class="igf-link" href="/inclusive-growth-framework/fundamentals/"></a></div>
+    <div id="igf-inclusive-growth-framework"></div>
+ </div>
+ <footer>
+   <a title="Privacy policy" href="https://www.wmca.org.uk/documents/policies/policies/policies/privacy-policy/">Privacy</a>
+ </footer>
+</body>
+</html>
