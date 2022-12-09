@@ -3,6 +3,10 @@
 
 /* <!-- style.css for west-midlands-combined-authority.github.io Si Chun Lam 8 December 2022 --> */
 
+body {
+  scroll-behavior: smooth;
+}
+
 #content, nav {
     margin: 5vw;
   }
