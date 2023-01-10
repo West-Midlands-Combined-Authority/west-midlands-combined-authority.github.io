@@ -49,13 +49,13 @@ header div {
     background-color: #0d699a;
   }
 .igf-asp {
-    color: white !important;
+    color: black !important;
     padding: 1vw;
     list-style: none;
     background-color: #fd9b36;
   }
 .igf-cc {
-    color: white !important;
+    color: black !important;
     padding: 1vw;
     list-style: none;
     background-color: #fc6933;
@@ -73,7 +73,7 @@ header div {
     background-color: #009b97;
   }
 .igf-eq {
-    color: white !important;
+    color: black !important;
     padding: 1vw;
     list-style: none;
     background-color: #e2b444;
