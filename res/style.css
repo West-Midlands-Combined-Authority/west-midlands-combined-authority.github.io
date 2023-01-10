@@ -1,7 +1,7 @@
 
 @charset "utf-8";
 
-/* <!-- style.css for west-midlands-combined-authority.github.io Si Chun Lam 8 December 2022 --> */
+/* <!-- style.css for west-midlands-combined-authority.github.io Si Chun Lam 10 January 2023 --> */
 
 body {
   scroll-behavior: smooth;
@@ -40,47 +40,47 @@ header div {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #014A3F;
+    background-color: #9e1b43;
   }
 .igf-cpp {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #9A4594;
+    background-color: #0d699a;
   }
 .igf-asp {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #E01684;
+    background-color: #fd9b36;
   }
 .igf-cc {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #3C1053;
+    background-color: #fc6933;
   }
 .igf-el {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #132972;
+    background-color: #c01d32;
   }
 .igf-hw {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #009B97;
+    background-color: #009b97;
   }
 .igf-eq {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #0075C9;
+    background-color: #e2b444;
   }
 .igf-cr {
     color: white !important;
     padding: 1vw;
     list-style: none;
-    background-color: #70AD47;
+    background-color: #417d47;
   }
