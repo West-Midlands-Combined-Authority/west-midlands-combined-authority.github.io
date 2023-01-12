@@ -36,49 +36,49 @@ header div {
     grid-template-columns: repeat(auto-fit,minmax(144px,1fr)) !important;
   }
 
-h2 .igf-cie {
+h2.igf-cie {
     color: white !important;
     padding: 1vw;
     list-style: none;
     background-color: #9e1b43;
   }
-h2 .igf-cpp {
+h2.igf-cpp {
     color: white !important;
     padding: 1vw;
     list-style: none;
     background-color: #0d699a;
   }
-h2 .igf-asp {
+h2.igf-asp {
     color: black !important;
     padding: 1vw;
     list-style: none;
     background-color: #fd9b36;
   }
-h2 .igf-cc {
+h2.igf-cc {
     color: black !important;
     padding: 1vw;
     list-style: none;
     background-color: #fc6933;
   }
-h2 .igf-el {
+h2.igf-el {
     color: white !important;
     padding: 1vw;
     list-style: none;
     background-color: #c01d32;
   }
-h2 .igf-hw {
+h2.igf-hw {
     color: white !important;
     padding: 1vw;
     list-style: none;
     background-color: #009b97;
   }
-h2 .igf-eq {
+h2.igf-eq {
     color: black !important;
     padding: 1vw;
     list-style: none;
     background-color: #e2b444;
   }
-h2 .igf-cr {
+h2.igf-cr {
     color: white !important;
     padding: 1vw;
     list-style: none;
