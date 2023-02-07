@@ -1,7 +1,7 @@
 
 @charset "utf-8";
 
-/* <!-- style.css for west-midlands-combined-authority.github.io Si Chun Lam 12 January 2023 --> */
+/* <!-- style.css for west-midlands-combined-authority.github.io Si Chun Lam 7 February 2023 --> */
 
 body {
   scroll-behavior: smooth;
@@ -85,7 +85,7 @@ h2.igf-cr {
     background-color: #417d47;
   }
 
-div p {
+div.wmcads-p-sm p {
   font-size: 1.4375rem;
   line-height: 1.5rem;
   font-weight: bold;
