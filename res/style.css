@@ -84,3 +84,9 @@ h2.igf-cr {
     list-style: none;
     background-color: #417d47;
   }
+
+div p {
+  font-size: 1.4375rem;
+  line-height: 1.5rem;
+  font-weight: bold;
+}
