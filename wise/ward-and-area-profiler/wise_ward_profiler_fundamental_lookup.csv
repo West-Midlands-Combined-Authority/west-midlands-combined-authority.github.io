@@ -1,0 +1,31 @@
+Fundamental,Fundamental ID,Category,Category ID
+Demographics and communities,1,Population,1
+Demographics and communities,1,Age,2
+Demographics and communities,1,Ethnicity,3
+Demographics and communities,1,Gender,4
+Demographics and communities,1,Religion,5
+Demographics and communities,1,Language,6
+Inclusive economy,2,Gross value added,1
+Inclusive economy,2,Social economic classification,2
+Inclusive economy,2,Economic activity,3
+Inclusive economy,2,Universal credit and claimant count,4
+Inclusive economy,2,Debt and insolvency,5
+Affordable and safe places,4,Housing tenure,1
+Affordable and safe places,4,Council tax,2
+Affordable and safe places,4,Household rooms and heating,3
+Affordable and safe places,4,Fuel poverty,4
+Affordable and safe places,4,Overcrowding,5
+Affordable and safe places,4,House prices and sales,6
+Affordable and safe places,4,Crime and anti-social behaviour,8
+Connected communities,5,Cars and vans,1
+Connected communities,5,Transport,2
+Education and learning,6,Highest level of qualification,1
+Health and wellbeing,7,Life expectancy,1
+Health and wellbeing,7,Self-reported health,2
+Health and wellbeing,7,Day-to-day activity,3
+Health and wellbeing,7,Child health,4
+Health and wellbeing,7,Care,5
+Health and wellbeing,7,Long-term illness or disability,6
+Health and wellbeing,7,Death from all causes,7
+Equality,8,Indices of multiple deprivation,1
+Equality,8,Children in low-income families,2

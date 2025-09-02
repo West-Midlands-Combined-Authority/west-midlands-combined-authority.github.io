@@ -1,0 +1,299 @@
+Metric ID,Fundamental,Category,Metric Order
+3281,Demographics and communities,Population,1
+3282,Demographics and communities,Age,1
+3283,Demographics and communities,Age,2
+3284,Demographics and communities,Age,3
+3285,Demographics and communities,Age,4
+3286,Demographics and communities,Age,5
+3287,Demographics and communities,Age,6
+3288,Demographics and communities,Age,7
+3289,Demographics and communities,Age,8
+3290,Demographics and communities,Age,9
+3291,Demographics and communities,Age,10
+3292,Demographics and communities,Age,11
+3293,Demographics and communities,Age,12
+5148,Demographics and communities,Age,13
+5149,Demographics and communities,Age,14
+5150,Demographics and communities,Age,15
+5151,Demographics and communities,Age,16
+5152,Demographics and communities,Age,17
+5153,Demographics and communities,Age,18
+5154,Demographics and communities,Age,19
+5155,Demographics and communities,Age,20
+5156,Demographics and communities,Age,21
+6006,Demographics and communities,Age,22
+6007,Demographics and communities,Age,23
+6079,Demographics and communities,Age,24
+2123,Demographics and communities,Ethnicity,1
+2124,Demographics and communities,Ethnicity,2
+2125,Demographics and communities,Ethnicity,3
+2126,Demographics and communities,Ethnicity,4
+2127,Demographics and communities,Ethnicity,5
+1842,Demographics and communities,Ethnicity,6
+1844,Demographics and communities,Ethnicity,7
+1846,Demographics and communities,Ethnicity,8
+1848,Demographics and communities,Ethnicity,9
+1850,Demographics and communities,Ethnicity,10
+1852,Demographics and communities,Ethnicity,11
+1854,Demographics and communities,Ethnicity,12
+1856,Demographics and communities,Ethnicity,13
+1858,Demographics and communities,Ethnicity,14
+1860,Demographics and communities,Ethnicity,15
+1862,Demographics and communities,Ethnicity,16
+1864,Demographics and communities,Ethnicity,17
+1866,Demographics and communities,Ethnicity,18
+1868,Demographics and communities,Ethnicity,19
+1870,Demographics and communities,Ethnicity,20
+1872,Demographics and communities,Ethnicity,21
+1874,Demographics and communities,Ethnicity,22
+1876,Demographics and communities,Ethnicity,23
+13696,Demographics and communities,Gender,1
+13697,Demographics and communities,Gender,2
+18478,Demographics and communities,Gender,3
+18479,Demographics and communities,Gender,4
+18480,Demographics and communities,Gender,5
+811,Demographics and communities,Gender,6
+812,Demographics and communities,Gender,7
+813,Demographics and communities,Gender,8
+814,Demographics and communities,Gender,9
+815,Demographics and communities,Gender,10
+816,Demographics and communities,Gender,11
+817,Demographics and communities,Gender,12
+818,Demographics and communities,Gender,13
+819,Demographics and communities,Gender,14
+820,Demographics and communities,Gender,15
+821,Demographics and communities,Gender,16
+822,Demographics and communities,Gender,17
+823,Demographics and communities,Gender,18
+824,Demographics and communities,Gender,19
+825,Demographics and communities,Gender,20
+826,Demographics and communities,Gender,21
+827,Demographics and communities,Gender,22
+828,Demographics and communities,Gender,23
+829,Demographics and communities,Gender,24
+1361,Demographics and communities,Religion,1
+1362,Demographics and communities,Religion,2
+1363,Demographics and communities,Religion,3
+1364,Demographics and communities,Religion,4
+1365,Demographics and communities,Religion,5
+1366,Demographics and communities,Religion,6
+1367,Demographics and communities,Religion,7
+1685,Demographics and communities,Religion,8
+1686,Demographics and communities,Religion,9
+1687,Demographics and communities,Religion,10
+1688,Demographics and communities,Religion,11
+1689,Demographics and communities,Religion,12
+1690,Demographics and communities,Religion,13
+1691,Demographics and communities,Religion,14
+1978,Demographics and communities,Religion,15
+1979,Demographics and communities,Religion,16
+3902,Equality,Indices of multiple deprivation,1
+3903,Equality,Indices of multiple deprivation,2
+3904,Equality,Indices of multiple deprivation,3
+3905,Equality,Indices of multiple deprivation,4
+3906,Equality,Indices of multiple deprivation,5
+3907,Equality,Indices of multiple deprivation,6
+3908,Equality,Indices of multiple deprivation,7
+3909,Equality,Indices of multiple deprivation,8
+3910,Equality,Indices of multiple deprivation,9
+3911,Equality,Indices of multiple deprivation,10
+3912,Equality,Indices of multiple deprivation,11
+3914,Equality,Indices of multiple deprivation,12
+3016,Equality,Indices of multiple deprivation,13
+3918,Equality,Indices of multiple deprivation,14
+3920,Equality,Indices of multiple deprivation,15
+3922,Equality,Indices of multiple deprivation,16
+2008,Education and learning,Highest level of qualification,1
+2009,Education and learning,Highest level of qualification,2
+2010,Education and learning,Highest level of qualification,3
+2011,Education and learning,Highest level of qualification,4
+2012,Education and learning,Highest level of qualification,5
+2013,Education and learning,Highest level of qualification,6
+2014,Education and learning,Highest level of qualification,7
+5142,Inclusive economy,Economic activity,1
+5143,Inclusive economy,Economic activity,2
+2030,Inclusive economy,Economic activity,3
+2031,Inclusive economy,Economic activity,4
+2032,Inclusive economy,Economic activity,5
+2033,Inclusive economy,Economic activity,6
+2034,Inclusive economy,Economic activity,7
+2035,Inclusive economy,Economic activity,8
+2036,Inclusive economy,Economic activity,9
+2037,Inclusive economy,Economic activity,10
+2038,Inclusive economy,Economic activity,11
+2039,Inclusive economy,Economic activity,12
+2079,Inclusive economy,Social economic classification,1
+2080,Inclusive economy,Social economic classification,2
+2081,Inclusive economy,Social economic classification,3
+2082,Inclusive economy,Social economic classification,4
+2083,Inclusive economy,Social economic classification,5
+2084,Inclusive economy,Social economic classification,6
+2085,Inclusive economy,Social economic classification,7
+2086,Inclusive economy,Social economic classification,8
+2087,Inclusive economy,Social economic classification,9
+2088,Inclusive economy,Social economic classification,10
+2089,Inclusive economy,Social economic classification,11
+2090,Inclusive economy,Social economic classification,12
+2091,Inclusive economy,Social economic classification,13
+2092,Inclusive economy,Social economic classification,14
+2093,Inclusive economy,Social economic classification,15
+13414,Inclusive economy,Universal credit and claimant count,5
+13382,Inclusive economy,Universal credit and claimant count,6
+13383,Inclusive economy,Universal credit and claimant count,7
+13393,Inclusive economy,Universal credit and claimant count,8
+13394,Inclusive economy,Universal credit and claimant count,9
+13395,Inclusive economy,Universal credit and claimant count,10
+13396,Inclusive economy,Universal credit and claimant count,11
+13397,Inclusive economy,Universal credit and claimant count,12
+13398,Inclusive economy,Universal credit and claimant count,13
+13399,Inclusive economy,Universal credit and claimant count,14
+13400,Inclusive economy,Universal credit and claimant count,15
+13401,Inclusive economy,Universal credit and claimant count,16
+164,Inclusive economy,Universal credit and claimant count,17
+165,Inclusive economy,Universal credit and claimant count,18
+166,Inclusive economy,Universal credit and claimant count,19
+167,Inclusive economy,Universal credit and claimant count,20
+3335,Health and wellbeing,Life expectancy,1
+3336,Health and wellbeing,Life expectancy,2
+1970,Health and wellbeing,Self-reported health,1
+1534,Health and wellbeing,Self-reported health,2
+1535,Health and wellbeing,Self-reported health,3
+1536,Health and wellbeing,Self-reported health,4
+1971,Health and wellbeing,Self-reported health,5
+1967,Health and wellbeing,Day-to-day activity,1
+1968,Health and wellbeing,Day-to-day activity,2
+1969,Health and wellbeing,Day-to-day activity,3
+3333,Health and wellbeing,Child health,1
+3334,Health and wellbeing,Child health,2
+3329,Health and wellbeing,Child health,3
+3330,Health and wellbeing,Child health,4
+3331,Health and wellbeing,Child health,5
+3332,Health and wellbeing,Child health,6
+3325,Health and wellbeing,Long-term illness or disability,1
+2114,Health and wellbeing,Long-term illness or disability,2
+2115,Health and wellbeing,Long-term illness or disability,3
+10860,Health and wellbeing,Long-term illness or disability,4
+10861,Health and wellbeing,Long-term illness or disability,5
+10862,Health and wellbeing,Long-term illness or disability,6
+10863,Health and wellbeing,Long-term illness or disability,7
+3192,Health and wellbeing,Death from all causes,1
+3194,Health and wellbeing,Death from all causes,2
+1902,Affordable and safe places,Housing tenure,1
+1904,Affordable and safe places,Housing tenure,2
+1906,Affordable and safe places,Housing tenure,3
+1908,Affordable and safe places,Housing tenure,4
+1910,Affordable and safe places,Housing tenure,5
+1912,Affordable and safe places,Housing tenure,6
+1914,Affordable and safe places,Housing tenure,7
+1916,Affordable and safe places,Housing tenure,8
+15368,Equality,Children in low-income families,1
+15369,Equality,Children in low-income families,2
+20388,Equality,Children in low-income families,3
+20389,Equality,Children in low-income families,4
+20390,Equality,Children in low-income families,5
+20391,Equality,Children in low-income families,6
+20392,Equality,Children in low-income families,7
+20393,Equality,Children in low-income families,8
+20394,Equality,Children in low-income families,9
+20395,Equality,Children in low-income families,10
+20396,Equality,Children in low-income families,11
+20396,Equality,Children in low-income families,12
+20397,Equality,Children in low-income families,13
+20398,Equality,Children in low-income families,14
+20399,Equality,Children in low-income families,15
+20400,Equality,Children in low-income families,16
+20401,Equality,Children in low-income families,17
+20402,Equality,Children in low-income families,18
+20403,Equality,Children in low-income families,19
+1984,Affordable and safe places,Household rooms and heating,1
+1985,Affordable and safe places,Household rooms and heating,2
+1986,Affordable and safe places,Household rooms and heating,3
+1987,Affordable and safe places,Household rooms and heating,4
+1995,Connected communities,Cars and vans,1
+1996,Connected communities,Cars and vans,2
+1997,Connected communities,Cars and vans,3
+1998,Connected communities,Cars and vans,4
+1999,Connected communities,Cars and vans,5
+2099,Demographics and communities,Language,1
+2100,Demographics and communities,Language,2
+2101,Demographics and communities,Language,3
+2102,Demographics and communities,Language,4
+3172,Affordable and safe places,Overcrowding,1
+5230,Affordable and safe places,House prices and sales,1
+16258,Affordable and safe places,Fuel poverty,1
+16259,Affordable and safe places,Fuel poverty,2
+5216,Affordable and safe places,House prices and sales,2
+5217,Affordable and safe places,House prices and sales,3
+5218,Affordable and safe places,House prices and sales,4
+5221,Affordable and safe places,House prices and sales,5
+5222,Affordable and safe places,House prices and sales,6
+5223,Affordable and safe places,House prices and sales,7
+5224,Affordable and safe places,House prices and sales,8
+5225,Affordable and safe places,House prices and sales,9
+5226,Affordable and safe places,House prices and sales,10
+5227,Affordable and safe places,House prices and sales,11
+5228,Affordable and safe places,House prices and sales,12
+17195,Affordable and safe places,Council tax,1
+17196,Affordable and safe places,Council tax,2
+17197,Affordable and safe places,Council tax,3
+17198,Affordable and safe places,Council tax,4
+17199,Affordable and safe places,Council tax,5
+17200,Affordable and safe places,Council tax,6
+17201,Affordable and safe places,Council tax,7
+17202,Affordable and safe places,Council tax,8
+17203,Affordable and safe places,Council tax,9
+17205,Affordable and safe places,Council tax,10
+17057,Affordable and safe places,Council tax,11
+17066,Affordable and safe places,Council tax,12
+17075,Affordable and safe places,Council tax,13
+17084,Affordable and safe places,Council tax,14
+17093,Affordable and safe places,Council tax,15
+17102,Affordable and safe places,Council tax,16
+17111,Affordable and safe places,Council tax,17
+17120,Affordable and safe places,Council tax,18
+17129,Affordable and safe places,Council tax,19
+17138,Affordable and safe places,Council tax,20
+17204,Affordable and safe places,Council tax,21
+19580,Affordable and safe places,Crime and anti-social behaviour,1
+19581,Affordable and safe places,Crime and anti-social behaviour,2
+19582,Affordable and safe places,Crime and anti-social behaviour,3
+19583,Affordable and safe places,Crime and anti-social behaviour,4
+19584,Affordable and safe places,Crime and anti-social behaviour,5
+19585,Affordable and safe places,Crime and anti-social behaviour,6
+19586,Affordable and safe places,Crime and anti-social behaviour,7
+19587,Affordable and safe places,Crime and anti-social behaviour,8
+19588,Affordable and safe places,Crime and anti-social behaviour,9
+19589,Affordable and safe places,Crime and anti-social behaviour,10
+19590,Affordable and safe places,Crime and anti-social behaviour,11
+19591,Affordable and safe places,Crime and anti-social behaviour,12
+19592,Affordable and safe places,Crime and anti-social behaviour,13
+19593,Affordable and safe places,Crime and anti-social behaviour,14
+19594,Affordable and safe places,Crime and anti-social behaviour,15
+3305,Health and wellbeing,Child health,7
+5472,Inclusive economy,Universal credit and claimant count,1
+5473,Inclusive economy,Universal credit and claimant count,2
+5474,Inclusive economy,Universal credit and claimant count,3
+5475,Inclusive economy,Universal credit and claimant count,4
+3173,Health and wellbeing,Child health,8
+15298,Inclusive economy,Gross value added,1
+3327,Health and wellbeing,Care,1
+1972,Health and wellbeing,Care,2
+1973,Health and wellbeing,Care,3
+1974,Health and wellbeing,Care,4
+176,Demographics and communities,Population,2
+3314,Inclusive economy,Universal credit and claimant count,1
+3315,Inclusive economy,Universal credit and claimant count,2
+3316,Inclusive economy,Universal credit and claimant count,3
+3317,Inclusive economy,Universal credit and claimant count,4
+20153,Health and wellbeing,Care,5
+20154,Health and wellbeing,Care,6
+20155,Health and wellbeing,Care,7
+10891,Health and wellbeing,Care,8
+10892,Health and wellbeing,Care,9
+10893,Health and wellbeing,Care,10
+10894,Health and wellbeing,Care,11
+3493,Inclusive economy,Debt and insolvency,4
+4566,Inclusive economy,Debt and insolvency,1
+4567,Inclusive economy,Debt and insolvency,2
+4568,Inclusive economy,Debt and insolvency,3
+7582,Connected communities,Transport,1
